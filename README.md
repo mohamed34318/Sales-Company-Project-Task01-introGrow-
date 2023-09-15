@@ -38,15 +38,15 @@ Sol_Q1 : total revenue over year was : 760330$</li>
 <li> Which product had the highest revenue? How much revenue did it generate? 
 <p>Sol_Q2 : The most common product have higher revenue ( SmartPhone ) with revenue 434,400 $ in 2022</p></li>
 <li> What was the average price of a product sold by the company?
-Sol_Q3 : the average price for each products : 14.46 $</li>
+<p>Sol_Q3 : the average price for each products : 14.46 $</p></li>
 <li> What was the total quantity of products sold by the company?
-Sol_Q4 : the total quantity of products sold in 2022 : 5371 product , where the product that have high quantity sold was T-Shirt</li>
+<p>Sol_Q4 : the total quantity of products sold in 2022 : 5371 product , where the product that have high quantity sold was T-Shirt</p></li>
 <li> Which category had the highest revenue? How much revenue did it generate?
-Sol_Q5: I found the Electronics Category have the highest revenue ,where the revenue of this category was : 516,080 $ in 2022 </li>
+<p>Sol_Q5: I found the Electronics Category have the highest revenue ,where the revenue of this category was : 516,080 $ in 2022 </p></li>
 <li> What was the average revenue per sale?
-Sol_Q6: so the average revenue per sale : 141.56 $</li>
+<p>Sol_Q6: so the average revenue per sale : 141.56 $</p></li>
 <li> What was the total revenue generated in each quarter of the year? (i.e. Q1, Q2, Q3, Q4) ?
-Sol_Q7: I found the total revenue in Q1 was 18000 $ and in Q2 I found 185970 $ and in Q3 I found 197680$ and  (Q4) was  194580$</li>
+<p>Sol_Q7: I found the total revenue in Q1 was 18000 $ and in Q2 I found 185970 $ and in Q3 I found 197680$ and  (Q4) was  194580$</p></li>
 </ol>
 
 <p>Thank you </p>
